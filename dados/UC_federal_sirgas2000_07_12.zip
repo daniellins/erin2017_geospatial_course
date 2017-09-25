@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="pt-br" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="pt-br" dir="ltr"> <!--<![endif]-->
+<head>
+    <!--[if lt IE 9]>
+    <script src="/portal/templates/padraogoverno01/js/html5shiv.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/portal/templates/padraogoverno01/bootstrap/css/bootstrap.min.css" type='text/css'/>
+    <link rel="stylesheet" href="/portal/templates/padraogoverno01/css/template-verde.css" type='text/css'/>
+    		<link rel="stylesheet" href="/portal/templates/padraogoverno01/css/icones-bmp-verde.css" type='text/css'/>
+		    <link rel="stylesheet" href="/portal/templates/padraogoverno01/font-awesome/css/font-awesome.min.css" type='text/css'/>
+    <link rel="stylesheet" href="/portal/templates/padraogoverno01/css/custom.css" type='text/css'/>
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" href="/portal/templates/padraogoverno01/css/ie.css" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/portal/templates/padraogoverno01/css/ie8.css" />
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/portal/templates/padraogoverno01/css/ie7.css" />
+    <link rel="stylesheet" href="/portal/font-awesome/css/font-awesome-ie7.min.css" />
+    <![endif]-->
+          <base href="http://www.icmbio.gov.br/portal/images/stories/comunicacao/downloads/UC_federal_sirgas2000_07_12.zip" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Instituto Chico Mendes,Chico Mendes, Biodiversidade,bioma,marinho,pantanal,caatinga,cerrado,pantanal,mata atlantica,pampa,unidades de conservação,extrativista,reserva,turismo,fauna,espécie ameaçada,fauna ameaçada" />
+  <meta name="rights" content="Instituto Chico Mendes de Conservação da Biodiversidade" />
+  <meta name="description" content="Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), órgão ambiental do governo brasileiro, criado pela lei 11.516, de 28 de agosto de 2007." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Instituto Chico Mendes de Conservação da Biodiversidade - Página inicial</title>
+  <link href="/portal/templates/padraogoverno01/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="http://www.icmbio.gov.br/portal/templates/padraogoverno01/html/mod_banners/css/banner-rotativo-home.css" type="text/css" />
+  <link rel="stylesheet" href="/portal/modules/mod_sptab/assets/css/custom.css.php?id=7132" type="text/css" />
+  <link rel="stylesheet" href="http://www.icmbio.gov.br/portal/media/mod_agendadirigentes/css/portalpadrao01.default.css" type="text/css" />
+  <style type="text/css">
+#sptab7132 .tabs_mask, #sptab7132 ul.tabs_container li span {height:30px;line-height:30px;}#sptab7132 .tab-padding {padding:10px}#sptab7132 .tabs_mask {background-color:#333333}#sptab7132 ul.tabs_container li.tab {background-color:#333333; color:#ffffff; margin-right:0px; border-right:1px solid #666666;}#sptab7132 ul.tabs_container li.tab.tab_over {background-color:#057ea6; color:#ffffff}#sptab7132 ul.tabs_container li.tab.active {background-color:#729c00; color:#ffffff}#sptab7132 {background-color:#ffffff; color:#444444; border:1px solid #e1e1e1}
+  </style>
+  <script src="/portal/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/portal/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/portal/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="http://www.icmbio.gov.br/portal/templates/padraogoverno01/html/mod_banners/js/banner-rotativo-home.js" type="text/javascript"></script>
+  <script src="/portal/modules/mod_sptab/assets/js/jquery.easing.1.3.min.js" type="text/javascript"></script>
+  <script src="/portal/modules/mod_sptab/assets/js/sptab.js" type="text/javascript"></script>
+  <style type="text/css">
+#barra-brasil li { line-height:inherit; }
+</style>
+
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        		<link href='http://www.icmbio.gov.br/portal/templates/padraogoverno01/css/fontes.css'  rel='stylesheet' type='text/css'>
+			<!--css para colocar a imagem aleatoria no topo -->
+  <style type="text/css">
+    <!--
+    main{
+    background-image: url(/portal/images/header_home/topo_aves.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    }
+    -->
+  </style>
+  <script src="/portal/templates/padraogoverno01/js/parallax.min.js"></script>
+  <script src="/portal/modules/mod_icmbio_temperaturas_mini/tmpl/js/init.js"></script>
+    <!--FIM css para colocar a imagem aleatoria no topo -->
+  
+</head>
+<body >
+    <a class="hide" id="topo" href="#accessibility">Ir direto para menu de acessibilidade.</a>
+    <noscript>
+      <div class="error minor-font">
+        Seu navegador de internet está sem suporte à JavaScript. Por esse motivo algumas funcionalidades do site podem não estar acessíveis.
+      </div>
+    </noscript>
+    <!--[if lt IE 7]><center><strong>Atenção, a versão de seu navegador não é compatível com este sítio. Atualize seu navegador.</strong></center><![endif]-->
+    <!-- barra do governo -->
+<div id="barra-brasil">
+	<div id="barra-brasil" style="background:#7F7F7F; height: 20px; padding:0 0 0 10px;display:block;"> 
+	<ul id="menu-barra-temp" style="list-style:none;">
+		<li style="display:inline; float:left;padding-right:10px; margin-right:10px; border-right:1px solid #EDEDED"><a href="http://brasil.gov.br" style="font-family:sans,sans-serif; text-decoration:none; color:white;">Portal do Governo Brasileiro</a></li> 
+		<li><a style="font-family:sans,sans-serif; text-decoration:none; color:white;" href="http://epwg.governoeletronico.gov.br/barra/atualize.html">Atualize sua Barra de Governo</a></li>
+	</ul>
+	</div>
+</div>
+	
+<!--[if lt IE 7]><br /><strong>Seu navegador é incompatível com os novos padrões de tecnologia e por isso você não pode visualizar a nova barra do Governo Federal. Atualize ou troque seu navegador.</strong><br /><![endif]-->
+<!-- fim barra do governo -->
+    <div class="layout">
+        <header>
+            <div class="container">
+                <div class="row-fluid accessibility-language-actions-container">
+                    <div class="span6 accessibility-container">
+                        <ul id="accessibility">
+                            <li>
+                                <a accesskey="1" href="#content" id="link-conteudo">
+                                    Ir para o conte&uacute;do
+                                    <span>1</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="2" href="#navigation" id="link-navegacao">
+                                    Ir para o menu
+                                    <span>2</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="3" href="#portal-searchbox" id="link-buscar">
+                                    Ir para a busca
+                                    <span>3</span>
+                                </a>
+                            </li>
+                            <li>
+                                <a accesskey="4" href="#footer" id="link-rodape">
+                                    Ir para o rodap&eacute;
+                                    <span>4</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- fim div.span6 -->
+                    <div class="span6 language-and-actions-container">
+                        		<h2 class="hide">Opções de acessibilidade</h2>
+		
+<ul class="pull-right" id="portal-siteactions">
+<li class="item-7052"><a href="/portal/acessibilidade" accesskey="5" >Acessibilidade</a></li><li class="item-7053 toggle-contraste"><a class="toggle-contraste" href="#"  accesskey="6" >Alto contraste</a></li><li class="item-7054"><a href="/portal/mapa-do-site" accesskey="7" >Mapa do site</a></li></ul>
+	
+                    </div>
+                    <!-- fim div.span6 -->
+                </div>
+                <!-- fim .row-fluid -->
+                <div class="row-fluid">
+                    <div id="logo" class="span8">
+                        <a href="http://www.icmbio.gov.br/portal/" title="ICMBio">
+                                                        <span class="portal-title-1">Instituto Chico Mendes de Conservação da Biodiversidade</span>
+                            <h1 class="portal-title corto">ICMBio</h1>                        
+<a href="http://www.mma.gov.br" title="Ministério do Meio Ambiente">
+                            <span class="portal-description">Ministério do Meio Ambiente</span>
+                            </a>
+                    </div>
+                    <!-- fim .span8 -->
+                    <div class="span4">
+                        	<div id="portal-searchbox" class="row">
+    	<h2 class="hidden">Buscar no portal</h2>
+    	<form action="/portal/" method="post" class="pull-right">
+ 	<fieldset>
+        <legend class="hide">Busca</legend>
+        <h2 class="hidden">Buscar no portal</h2>
+        <div class="input-append">
+        	<label for="portal-searchbox-field" class="hide">Busca: </label>
+        	<input type="text" id="portal-searchbox-field" class="searchField" placeholder="Buscar no portal" title="Buscar no portal" name="searchword">       
+            <button type="submit" class="btn searchButton"><span class="hide">Buscar</span><i class="icon-search"></i></button>
+		</div>
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="7022" />
+	</fieldset>
+</form>
+    </div>
+		<div id="social-icons" class="row">
+    	<h2 class="hidden">Redes Sociais</h2>
+    	
+<ul class="pull-right">
+<li class="portalredes-item item-7050"><a href="https://www.facebook.com/ICMBio" ><i class="icon-facebook-sign"><span>Facebook</span></i></a></li><li class="portalredes-item item-7048"><a href="https://twitter.com/ICMBio" ><i class="icon-twitter-sign"><span>Twitter</span></i></a></li><li class="portalredes-item item-7049"><a href="http://www.youtube.com/user/canalicmbio" ><i class="icon-youtube"><span>YouTube</span></i></a></li><li class="portalredes-item item-7143"><a href="https://instagram.com/icmbio" ><i class="icon-instagram"><span>Instagram</span></i></a></li><li class="portalredes-item item-7131"><a href="http://www.icmbio.gov.br/portal/noticias1?format=feed&amp;type=rss" ><i class="icon-rss-sign"><span>RSS</span></i></a></li></ul>
+    </div>
+	
+                    </div>
+                    <!-- fim .span4 -->
+                </div>
+                <!-- fim .row-fluid -->
+            </div>
+            <!-- fim div.container -->
+            <div class="sobre">
+                <div class="container">
+                    	<nav class="menu-servicos pull-right">
+        <h2 class="hide">Serviços</h2>
+        
+<ul>
+<li class="item-7043"><a href="/portal/perguntas-frequentes" >Perguntas frequentes</a></li><li class="item-7044 parent"><a href="/portal/contato" >Contato</a></li><li class="item-7279"><a href="/portal/sistemas2" >Sistemas</a></li><li class="item-7280"><a href="http://www.icmbio.gov.br/acessoainformacao/" target="_blank" >Acesso à Informação</a></li><li class="item-7047"><a href="/portal/ouvidoria" >Ouvidoria</a></li></ul>
+<span class="hide">Fim do menu de serviços</span>
+    </nav>
+	
+                </div>
+                <!-- .container -->
+            </div>
+            <!-- fim .sobre -->
+        </header>
+        <main>
+          
+            <div class="container">
+                	<div class="row-fluid">
+		<section id="em-destaque">
+			 
+			 <h2 class="span2"><span>Em destaque</span></h2>
+						<ul class="span10 n4">
+<li class="item-7305"><a href="/portal/unidadesdeconservacao/biomas-brasileiros" >Unidades de conservação</a></li><li class="item-7306"><a href="/portal/especies-ameacadas-destaque" >Espécies ameaçadas</a></li><li class="item-7307"><a href="/portal/o-instituto-destaque" >O Instituto</a></li><li class="item-7282"><a href="http://www.icmbio.gov.br/intranet" target="_blank" >Intranet</a></li></ul>
+		</section>
+	</div>
+	
+                <div class="row-fluid conteudo_site">
+                                        <div id="navigation" class="span3">
+                        <a href="#" class="visible-phone visible-tablet mainmenu-toggle btn"><i class="icon-list"></i>&nbsp;Menu</a>
+                        <section id="navigation-section">
+                            <span class="hide">Início do menu principal</span>
+                            	<nav class="menu-de-apoio ">
+		<h2 class="hide">Logo ICMBio Menu </h2><!-- visible-phone visible-tablet -->
+		<img class="logo-icmbio" alt="logo topo home" src="/portal/images/imgs_home/logo_topo_home.png" />	</nav>
+		<nav class="menu-de-apoio span9">
+		<h2 class="hide">Menu de Relevância </h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-7276"><a href="/portal/quemquem" >Quem é quem</a></li><li class="item-7277"><a href="/portal/planosmanejo" >Planos de Manejo</a></li><li class="item-7278"><a href="/portal/geoprocessamentos" >Geoprocessamento</a></li><li class="item-7804"><a href="/portal/qlikview" >Painel dinâmico</a></li></ul>
+	</nav>
+		<nav class=" span10 closed">
+		<h2 >Quem somos <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		<ul class="menuspan10 closed">
+<li class="item-273"><a href="/portal/oinstituto" >O Instituto</a></li><li class="item-93"><a href="/portal/nossascompetencias" >Nossas Competências</a></li><li class="item-94"><a href="/portal/missao1" >Missão</a></li><li class="item-95"><a href="/portal/nossaestrutura" >Nossa Estrutura</a></li><li class="item-96 parent"><a href="/portal/quemequem" >Quem é Quem</a></li><li class="item-335"><a href="/portal/comitegestor" >Comitê Gestor</a></li><li class="item-606"><a href="/portal/gestaoestrategica" >Gestão Estratégica</a></li><li class="item-97"><a href="/portal/ondeestamos" >Onde Estamos</a></li><li class="item-98 parent"><a href="/portal/agendadopresidenteediretores" >Agenda do Presidente e Diretores</a></li><li class="item-99 parent"><a href="/portal/academianacionaldabiodiversidade" >Academia Nacional da Biodiversidade</a></li><li class="item-100"><a href="http://www.icmbio.gov.br/acessoainformacao/relatorios-de-gestao.html" target="_blank" >Relatórios de Gestão</a></li><li class="item-101 parent"><a href="/portal/legislacao1/leis" >Legislação</a></li><li class="item-102"><a href="/portal/procuradoriafederalespecializada" >Procuradoria Federal Especializada</a></li><li class="item-622"><a href="/portal/coordenacoesregionais" >Coordenações Regionais</a></li></ul>
+	</nav>
+		<nav class=" span10 closed">
+		<h2 >O que fazemos <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		<ul class="menuspan10 closed">
+<li class="item-105 parent"><a href="/portal/criacaodeunidadesdeconservacao" >Criação de UCs</a></li><li class="item-108"><a href="/portal/efetividadedagestaodeucs" >Efetividade da Gestão de UCs</a></li><li class="item-107 parent"><a href="/portal/mosaicosecorredoresecologicos" >Mosaicos e Corredores Ecológicos</a></li><li class="item-109 parent"><a href="/portal/protecao1" >Proteção</a></li><li class="item-119 parent"><a href="/portal/visitacao1" >Visitação</a></li><li class="item-110"><a href="/portal/consolidacaoterritorial" >Consolidação Territorial</a></li><li class="item-111 parent"><a href="/portal/gestaosocioambiental" >Gestão Socioambiental</a></li><li class="item-116 parent"><a href="/portal/populacoestradicionais" >Populações Tradicionais</a></li><li class="item-607"><a href="/portal/manejoparaconservacao" >Manejo para Conservação</a></li><li class="item-126 parent"><a href="/portal/pesquisa" >Pesquisa</a></li><li class="item-7292 parent"><a href="/portal/monitoramento-2016" >Monitoramento</a></li><li class="item-134"><a href="/portal/administracao-1" >Administração</a></li><li class="item-135"><a href="/portal/compensacaoambiental" >Compensação Ambiental</a></li><li class="item-136"><a href="/portal/programaseprojetos" >Programas e Projetos</a></li></ul>
+	</nav>
+		<nav class="assuntos span10 closed">
+		<h2 >Biodiversidade <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-144 parent"><a href="/portal/unidadesdeconservacao/biomas-brasileiros" >Unidades de Conservação</a></li><li class="item-121 parent"><a href="/portal/faunabrasileira" >Fauna Brasileira</a></li><li class="item-146 parent"><a href="/portal/centrosdepesquisa" >Centros de Pesquisa</a></li><li class="item-7258"><a href="/portal/portaldabiodiversidade" >Portal da Biodiversidade</a></li></ul>
+	</nav>
+		<nav class="assuntos span10 closed">
+		<h2 >Serviços <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-7805"><a href="/portal/atendimentoaocidadao-2" >Ambiente Virtual de Aprendizagem - AVA</a></li><li class="item-632 parent"><a href="/portal/atendimentoaocidadao" >Atendimento ao Cidadão</a></li><li class="item-84 parent"><a href="/portal/criesuareserva" >Crie sua Reserva</a></li><li class="item-169"><a href="/portal/sejaumbrigadista" >Seja um Brigadista</a></li><li class="item-170"><a href="/portal/sejaumvoluntario" >Seja um Voluntário</a></li><li class="item-83"><a href="http://www.icmbio.gov.br/sisbio/" target="_blank" >SISBIO</a></li><li class="item-336"><a href="/portal/autorizacaoparalicenciamento" >Autorização para Licenciamento</a></li><li class="item-167 parent"><a href="/portal/infracoesambientais" >Infrações Ambientais</a></li><li class="item-82"><a href="/portal/consultaspublicas" >Consultas Públicas</a></li><li class="item-81 parent"><a href="/portal/licitacoes1" >Licitações / Editais</a></li><li class="item-308"><a href="/portal/boletinsdeincendio" >Boletins de Incêndio</a></li><li class="item-610"><a href="/portal/geoprocessamento1" >Geoprocessamento</a></li><li class="item-611"><a href="/portal/sistemas1" >Sistemas</a></li><li class="item-7218"><a href="/portal/compensacaodereservalegal" >Compensação de reserva legal</a></li></ul>
+	</nav>
+		<nav class="assuntos span10 closed">
+		<h2 >Comunicação <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-171 parent"><a href="/portal/noticias1" >Notícias</a></li><li class="item-172"><a href="/portal/newsletter1" >Newsletter</a></li><li class="item-173 parent"><a href="/portal/saladeimprensa" >Sala de Imprensa</a></li><li class="item-254"><a href="/portal/parceiros1" >Parceiros</a></li><li class="item-174"><a href="/portal/videos1" >Vídeos</a></li><li class="item-176"><a href="/portal/publicacoes1" >Publicações</a></li><li class="item-612"><a href="/portal/downloads1" >Downloads</a></li><li class="item-333"><a href="/portal/logomarca1" >Logomarca</a></li><li class="item-376"><a href="/portal/galeriadeimagens" >Galeria de Imagens</a></li></ul>
+	</nav>
+		<nav class="central-conteudos span10">
+		<h2 >Central de conteúdos <i class="icon-chevron-up visible-phone visible-tablet pull-right"></i></h2><!-- visible-phone visible-tablet -->
+		
+<ul>
+<li class="item-7057"><a class="imagens" href="/portal/imagens" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-picture icon-light"><span class="hide">&nbsp;</span></i></span>
+Imagens</a></li><li class="item-7058"><a class="videos" href="/portal/videos" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-play icon-light"><span class="hide">&nbsp;</span></i></span>
+Vídeos</a></li><li class="item-7060"><a class="publicacoes" href="/portal/publicacoes" ><span class="icon-li icon-stack"><i class="icon-circle icon-stack-base"><span class="hide">&nbsp;</span></i><i class="icon-file-text icon-light"><span class="hide">&nbsp;</span></i></span>
+Publicações</a></li></ul>
+	</nav>
+	
+                            <span class="hide">Fim do menu principal</span>
+                        </section>
+                    </div>
+                    <!-- fim #navigation.span3 -->
+                                        <div id="content" class="span9">
+                        <section id="content-section">
+                            <span class="hide">Início do conteúdo da página</span>
+
+                            
+                            
+                                <div class="row-fluid">
+		
+	<div class="span8 bnhome module">
+						
+			<div class="carousel banner-carousel slide bannergroup" id="banner-carousel-7105">
+<div class="carousel-inner">
+	<div class="banneritem item active">
+																																																																		<a
+							href="/portal/component/banners/click/324"
+							title="Soavinski conhece nova estrutura do Peruaçu">
+							<img
+								src="http://www.icmbio.gov.br/portal/images/stories/banners/banner_peruacu.JPG"
+								alt="Soavinski conhece nova estrutura do Peruaçu"
+																							/>
+						</a>
+															<div class="faixa"></div>
+			<h1>
+				<a href="/portal/component/banners/click/324">
+					Soavinski conhece nova estrutura do Peruaçu				</a>
+			</h1>
+							<p>
+					<!-- <a href="/portal/component/banners/click/324"> -->
+					Presidente visitou a Gruta do Janelão e as Lapas do Índio, Bonita, Caboclo e Carlúcio. Parque e APA também comemoram aniversário de criação.					<!-- </a> -->
+				</p>
+							<div class="clr"></div>
+	</div>
+	<div class="banneritem item ">
+																																																																		<a
+							href="/portal/component/banners/click/323"
+							title="Flona de Brasília reabre ao público com evento esportivo">
+							<img
+								src="http://www.icmbio.gov.br/portal/images/stories/banners/banner_flona.JPG"
+								alt="Flona de Brasília reabre ao público com evento esportivo"
+																							/>
+						</a>
+															<div class="faixa"></div>
+			<h1>
+				<a href="/portal/component/banners/click/323">
+					Flona de Brasília reabre ao público com evento esportivo				</a>
+			</h1>
+							<p>
+					<!-- <a href="/portal/component/banners/click/323"> -->
+					Visitação foi suspensa por causa de incêndio que atingia a unidade desde o final de agosto					<!-- </a> -->
+				</p>
+							<div class="clr"></div>
+	</div>
+	<div class="banneritem item ">
+																																																																		<a
+							href="/portal/component/banners/click/319"
+							title="Operação coíbe crimes ambientais em Gurupi">
+							<img
+								src="http://www.icmbio.gov.br/portal/images/stories/BANNER-OPERAÇÃO.gif"
+								alt="Operação coíbe crimes ambientais em Gurupi"
+																							/>
+						</a>
+															<div class="faixa"></div>
+			<h1>
+				<a href="/portal/component/banners/click/319">
+					Operação coíbe crimes ambientais em Gurupi				</a>
+			</h1>
+							<p>
+					<!-- <a href="/portal/component/banners/click/319"> -->
+					Agentes do ICMBio e parceiros estão desde o início da semana na reserva no Maranhão para combater grilagem de terras e extração ilegal de madeira					<!-- </a> -->
+				</p>
+							<div class="clr"></div>
+	</div>
+	<div class="banneritem item ">
+																																																																		<a
+							href="/portal/component/banners/click/328"
+							title="Aviões são enviados para a Serra da Bocaina">
+							<img
+								src="http://www.icmbio.gov.br/portal/images/stories/banners/banner_bcoaian2.jpg"
+								alt="Aviões são enviados para a Serra da Bocaina"
+																							/>
+						</a>
+															<div class="faixa"></div>
+			<h1>
+				<a href="/portal/component/banners/click/328">
+					Aviões são enviados para a Serra da Bocaina				</a>
+			</h1>
+							<p>
+					<!-- <a href="/portal/component/banners/click/328"> -->
+					Ministro Sarney Filho determinou envio de aeronaves, brigadistas e especialistas para combater o incêndio na região. Medida é prioridade.					<!-- </a> -->
+				</p>
+							<div class="clr"></div>
+	</div>
+	
+</div>
+<ol class="carousel-indicators carousel-indicators-custom">
+			<li data-slide-to="0" data-target="#banner-carousel-7105" class="active"><a href="#" title="Soavinski conhece nova estrutura do Peruaçu">0</a></li>
+			<li data-slide-to="1" data-target="#banner-carousel-7105" class=""><a href="#" title="Flona de Brasília reabre ao público com evento esportivo">1</a></li>
+			<li data-slide-to="2" data-target="#banner-carousel-7105" class=""><a href="#" title="Operação coíbe crimes ambientais em Gurupi">2</a></li>
+			<li data-slide-to="3" data-target="#banner-carousel-7105" class="last"><a href="#" title="Aviões são enviados para a Serra da Bocaina">3</a></li>
+</ol>
+</div>
+			
+	
+										
+			
+			</div>
+<div class="module-box-01 span4 module  variacao-module-00">
+										<div class="header">				<h2 class="title">Notícias</h2>
+	        					
+				</div>
+			
+			
+<ul class="row-fluid lista">
+			<li class="span12">
+					
+			<h4>
+				<a href="/portal/ultimas-noticias/20-geral/9190-soavinski-conhece-nova-estrutura-do-peruacu">
+					Soavinski conhece nova estrutura do Peruaçu				</a>
+			</h4>
+				</li>			
+			<li class="span12">
+					
+			<h4>
+				<a href="/portal/ultimas-noticias/20-geral/9189-flona-de-brasilia-reabre-ao-publico-com-desafio-de-mountain-bike-2">
+					Flona de Brasília reabre ao público com evento esportivo				</a>
+			</h4>
+				</li>			
+			<li class="span12">
+					
+			<h4>
+				<a href="/portal/ultimas-noticias/20-geral/9187-avioes-sao-enviados-para-a-serra-da-bocaina">
+					Aviões são enviados para a Serra da Bocaina				</a>
+			</h4>
+				</li>			
+			<li class="span12">
+					
+			<h4>
+				<a href="/portal/ultimas-noticias/20-geral/9186-pesquisadores-realizam-nova-expedicao-na-foz-do-rio-doce">
+					Pesquisadores realizam nova expedição na foz do Rio Doce				</a>
+			</h4>
+				</li>			
+			<li class="span12">
+					
+			<h4>
+				<a href="/portal/ultimas-noticias/20-geral/9185-apos-incendio-circuito-das-cachoeiras-sera-reaberto-2">
+					Após incêndio, Circuito das Cachoeiras será reaberto				</a>
+			</h4>
+				</li>			
+			
+</ul>
+
+	<div class="footer">
+		<a href="/portal/noticias1" class="link">
+			Acesse a lista completa			
+		</a>	
+	</div>
+			
+	
+										
+			
+			</div>
+
+	</div>
+<div class="row-fluid module">
+		
+	<div class="module">
+										<div class="outstanding-header">				<h2 class="outstanding-title">UNIDADES DE CONSERVAÇÃO</h2>
+	        					
+				</div>
+			
+			
+<div class="sptab_red" id="sptab7132">
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="visitação" class="sptab-title sptab_sfxmanchete-lateral-tit-menor">Visitação</span></h2>
+			<div class="manchete-texto-lateral">
+		<div class="row-fluid">
+			
+		<div class="span4 no-margin">
+				
+		
+					
+				<h1 >
+					<a href="/portal/visitacao1/visite-os-parques" >
+						Visite os Parques					</a>
+				</h1>
+		
+					<span style="font-size: small;" size="2">Preparar as Unidades de Conservação para receber visitantes, com qualidade e segurança, é uma das prioridades do Ministério do Meio Ambiente (MMA) e do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). Os esforços do ICMBio para a consolidação da visitação têm resultado em crescimento do número de visitantes.</span>				</div>
+				<div class="span8 img-manchete-lateral">				
+											
+					<a href="/portal/visitacao1/visite-os-parques">
+						<img src="/portal/images/imgs_home/btn_visitacao_home.jpg" class="img-rounded" width="490" height="auto" alt="" />
+					</a>				
+								
+		</div>
+			</div>
+	</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="uso_sustentável" class="sptab-title sptab_sfxmanchete-lateral-tit-menor">Uso Sustentável</span></h2>
+			<div class="manchete-texto-lateral">
+		<div class="row-fluid">
+			
+		<div class="span4 no-margin">
+				
+		
+					
+				<h1 >
+					<a href="/portal/populacoestradicionais/producao-e-uso-sustentavel" >
+						Produção e Uso Sustentável					</a>
+				</h1>
+		
+					<p class="description">O Instituto busca, a partir desta área, atuar no desenvolvimento de estratégias promissoras de produção e uso sustentável dos recursos naturais que resultem na disseminação de experiências exitosas, na promoção do modo de vida dos povos e populações tradicionais, na valorização de seus conhecimentos e saberes, no manejo adequado dos...</p>				</div>
+				<div class="span8 img-manchete-lateral">				
+											
+					<a href="/portal/populacoestradicionais/producao-e-uso-sustentavel">
+						<img src="/portal/images/stories/o-que-fazemos/pesca.jpg" class="img-rounded" width="490" height="auto" alt="" />
+					</a>				
+								
+		</div>
+			</div>
+	</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+	<div style="display:none">
+		<div class="tab-padding">
+			<h2 style="display:none" class="title"><span id="pesquisas" class="sptab-title sptab_sfxmanchete-lateral-tit-menor">Pesquisas</span></h2>
+			<div class="manchete-texto-lateral">
+		<div class="row-fluid">
+			
+		<div class="span4 no-margin">
+				
+		
+					
+				<h1 >
+					<a href="/portal/pesquisa/projetos-apoiados" >
+						Projetos Apoiados					</a>
+				</h1>
+		
+					<p class="description">O Instituto executa diversos programas de pesquisa aplicada à conservação da biodiversidade e ao uso sustentável dos recursos, bem como fomenta projetos de seu interesse.
+Os projetos de pesquisa, tanto internos quanto externos, resultam na geração de conhecimento efetivo para a conservação e uso sustentável da biodiversidade.
+Eles são...</p>				</div>
+				<div class="span8 img-manchete-lateral">				
+											
+					<a href="/portal/pesquisa/projetos-apoiados">
+						<img src="/portal/images/stories/o-que-fazemos/tartaruga.jpg" class="img-rounded" width="490" height="auto" alt="" />
+					</a>				
+								
+		</div>
+			</div>
+	</div>			<div style="clear:both"></div>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	jQuery(function($) {
+		$('#sptab7132').sptab({
+			animation : 'fade',
+			btnPos: 'top',
+			activator: 'click',
+			transition: 'linear',
+			duration: 400		});
+	});
+</script>			
+	
+										
+			
+			</div>
+
+	</div>
+<div class="row-fluid module">
+		
+	<div class="module-box-01 module-box-01-white span4 module">
+										<div class="header">				<h2 class="title">Agenda Ambiental</h2>
+	        					
+				</div>
+			
+			<div class="compromissos-container">
+	<p class="period">
+		25 de setembro de 2017	</p>
+		<ul class="compromissos-lista" style="height: 388px; overflow:auto">
+				<li class="sem-compromissos-oficiais">Sem compromissos oficiais.</li>
+			</ul>		
+	
+</div>
+<div class="footer">
+<a class="link" href="/portal/component/agendadirigentes/?view=autoridades&amp;Itemid=">Acesse todas as agendas</a>
+</div>
+			
+	
+										
+			
+			</div>
+<div class="module-box-01 span8 module  variacao-module-00">
+						
+			<div class="gallery-pane">
+	<div id="gallery-carousel-7039" class="carousel slide">
+		<div class="carousel-inner">
+									<div class="item active">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_arara.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/13-faunahome-arara">Arara Azul de Lear - Anodorhynchus leari</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">O principal item alimentar da arara-azul-de-lear é o coco da palmeira licuri (Syagrus coronata). Estima-se que o consumo diário de uma arara adulta seja de 350...</p></div>
+					    <div data-index="0" class="rights">Foto: Eduardo Issa</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_caiarara.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/15-caiarara-ka-apor">Caiarara Ka'apor - Cebus kaapori</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">É uma espécie do grupo “sem tufo", apresentando uma pelagem aguti, com coloração marrom-acinzentada nas partes superiores e nos 2/3 proximais da cauda, e cinza-prateada na garganta,...</p></div>
+					    <div data-index="1" class="rights">Foto: Val Campos</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_guigo.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/16-guigo">Guigó - Callicebus coimbrai</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">Endêmico das florestas úmidas de Sergipe e do litoral norte da Bahia, é a mais recente espécie de primata descrita para a Mata Atlântica. Atualmente, a ocorrência do guigó já foi...</p></div>
+					    <div data-index="2" class="rights">Foto: Val Campos</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_loboguara.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/17-lobo-guara">Lobo-guará - Chrysocyon brachyurus</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">É uma espécie de hábito solitário, cujos indivíduos se juntam em casais apenas na época reprodutiva. O tamanho da área ocupada por casais é bem variável, ao longo de sua...</p></div>
+					    <div data-index="3" class="rights">Foto: Rogerio Cunha de Paula</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_micoleao.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/18-mico-leao-da-cara-preta">Mico-leão-da-cara-preta - Leontopithecus caissara</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">A espécie é endêmica e restrita à Mata Atlântica do norte do Paraná e litoral sul de São Paulo. As últimas estimativas populacionais indicam a existência de cerca de 400...</p></div>
+					    <div data-index="4" class="rights">Foto: Celso Margraf</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_muriqui.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/19-muriqui-do-norte">Muriqui do Norte - Brachyteles hypoxanthus</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">É o maior macaco neotropical, endêmico da Mata Atlântica brasileira. A diferença do Muriqui-do-sul (Brachyteles arachnoides) para o Muriqui-do-norte (Brachyteles hypoxanthus) é a...</p></div>
+					    <div data-index="5" class="rights">Foto: Fernanda Tabacow</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_onca.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/20-onca-pintada">Onça Pintada - Panthera onca</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">É o maior felino das Américas e o único representante atual do gênero Panthera no continente. O seu corpo é mais robusto, musculoso e compacto, com comprimento variando entre 1,10 a...</p></div>
+					    <div data-index="6" class="rights">Foto: Adriano Gambarini</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_peixeboi.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/32-peixe-boi-marinho">Peixe-boi-marinho - Trichechus manatus</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">É um mamífero herbívoro e ingeri grande quantidade de alimento, comendo todo dia 13% do seu peso corporal, passando até 8 horas por dia se alimentando. Medem até 4 metros de...</p></div>
+					    <div data-index="7" class="rights">Foto: Iran Campello Normande</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_piracanjuba.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/21-piracanjuba">Piracanjuba - Brycon orbignyanus</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">Testes de digestibilidade da espécie revelaram uma grande capacidade para a digestão de proteínas de origem vegetal e análises de suas proteínas digestivas corroboram o perfil onívoro...</p></div>
+					    <div data-index="8" class="rights">Foto: CEPTA</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_sapinho.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/22-sapinho-narigudo-de-barriga-vermelha">Sapinho Narigudo de Barriga Vermelha - elanophryniscus dorsalis</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">A espécie se alimenta, principalmente, de formigas ou cupins; apresenta reprodução explosiva, que ocorre em períodos de chuva intensa, entre os meses de setembro e...</p></div>
+					    <div data-index="9" class="rights">Foto: Patrick Colombo</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_saum.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/23-sauim-de-coleira">Sauim-de-coleira - Saguinus bicolor</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">A dieta principal é composta de frutos e invertebrados, mas também pequenos vertebrados, néctar e goma. A área de vida é variável, sendo estimado entre 12 e 35 ha em áreas...</p></div>
+					    <div data-index="10" class="rights">Foto: Rosana Subirá</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_surubim.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/24-surubim-do-paraiba">Surubim-do-Paraíba - Steindachneridion parahybae</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">É um bagre de grande porte, atingindo pelo menos 60 cm de comprimento padrão. Sua ocorrência está associada a poções não muito profundos localizados nas regiões centrais dos rios e...</p></div>
+					    <div data-index="11" class="rights">Foto: CEPTA</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_tartarugacabecuda.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/25-tartaruga-cabecuda">Tartaruga Cabeçuda - Caretta caretta</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">Como indica seu nome vulgar, distingue-se morfologicamente dos demais Cheloniidae por sua cabeça proporcionalmente grande em relação a seu comprimento total.O sexo dos filhotes é...</p></div>
+					    <div data-index="12" class="rights">Foto: TAMAR</div>
+					</div>
+				</div>
+			</div>
+									<div class="item">
+				<img alt="Foto da galeria de imagens: sem descrição informada." src="http://www.icmbio.gov.br/portal/images/phocagallery/faunaameacada/thumbs/phoca_thumb_l_faunahome_tartarugaoliva.jpg">
+				<div class="galleria-info">
+					<div class="galleria-info-text">
+					    <div class="galleria-info-title">
+					    	<h3><a href="/portal/component/phocagallery/4/detail/26-tartaruga-oliva">Tartaruga Oliva - Lepidochelys olivacea</a></h3>
+					    </div>
+					    <div class="galleria-info-description"><p class="description">Tartaruga-oliva é uma das menores tartarugas marinhas do mundo, com peso entre 35 e 50 kg. O tempo necessário para atingir a maturidade sexual é estimado entre 7 a 30...</p></div>
+					    <div data-index="13" class="rights">Foto: TAMAR</div>
+					</div>
+				</div>
+			</div>
+					</div>
+		<a data-slide="prev" href="#gallery-carousel-7039" class="left carousel-control"><i class="icon-angle-left"></i><span class="hide">Mover foto esquerda</span></a>
+		<!-- separador para fins de acessibilidade <--><span class="hide">&nbsp;</span></--><!-- fim separador para fins de acessibilidade -->
+		<a data-slide="next" href="#gallery-carousel-7039" class="right carousel-control"><i class="icon-angle-right"></i><span class="hide">Mover foto esquerda</span></a>
+	</div>
+</div>
+	<div class="footer">
+		<a href="/portal/faunabrasileira/lista-de-especies" class="link">
+			Acesse a lista completa			
+		</a>	
+	</div>
+			
+	
+										
+			
+			</div>
+
+	</div>
+<div class="row-fluid module">
+		
+	<div class="module span4 variacao-module-04">
+										<div class="outstanding-header">				<h2 class="outstanding-title">GEOPROCESSAMENTO</h2>
+	        					
+				</div>
+			
+			<div class="chamadas-secundarias">
+			
+						
+			<a href="/portal/geoprocessamento1" class="img-rounded">
+				<img src="/portal/images/conteudo/btn_mapa2.jpg" width="230" height="136" alt="" />
+			</a>
+						
+		
+	
+	
+		
+</div>			
+	
+										
+			
+			</div>
+<div class="variacao-module-02 module span4 variacao-module-00">
+										<div class="outstanding-header">				<h2 class="outstanding-title">CONSULTAS PÚBLICAS</h2>
+	        					
+				</div>
+			
+			<div class="chamadas-secundarias">
+			
+						
+			<a href="/portal/criacaodeunidadesdeconservacao/lista-de-consultas-publicas" class="img-rounded">
+				<img src="/portal/images/conteudo/consulta2.jpg" width="230" height="136" alt="" />
+			</a>
+						
+		
+	
+	
+		
+</div>			
+	
+										
+			
+			</div>
+<div class="module span4 variacao-module-10">
+										<div class="outstanding-header">				<h2 class="outstanding-title">INFRAÇÕES AMBIENTAIS</h2>
+	        					
+				</div>
+			
+			<div class="chamadas-secundarias">
+			
+						
+			<a href="/portal/infracoesambientais/julgamento-de-autos-de-infracao" class="img-rounded">
+				<img src="/portal/images/conteudo/arvorecortada.jpg" width="230" height="136" alt="" />
+			</a>
+						
+		
+	
+	
+		
+</div>			
+	
+										
+			
+			</div>
+
+	</div>
+<div class="row-fluid module">
+		
+	<div class="span3 linha04-img module row variacao-module-04">
+						
+				
+	
+	
+		
+		
+						
+			<a href="/portal/component/content/article?id=8037" class="img-rounded">
+				<img src="/portal/images/stories/botoes/btn_riodoce.png" width="230" height="136" alt="" />
+			</a>
+						
+	
+	
+	
+	
+			
+	
+										
+			
+			</div>
+<div class="span3 linha04-img module row variacao-module-04">
+						
+				
+	
+	
+		
+		
+						
+			<a href="/portal/criesuareserva" class="img-rounded">
+				<img src="/portal/images/btn_criesuareserva.png" width="230" height="136" alt="" />
+			</a>
+						
+	
+	
+	
+	
+			
+	
+										
+			
+			</div>
+<div class="span3 linha04-img module row variacao-module-04">
+						
+				
+	
+	
+		
+		
+						
+			<a href="/portal/sejaumvoluntario" class="img-rounded">
+				<img src="/portal/images/btn_sejaumvoluntario.png" width="230" height="136" alt="" />
+			</a>
+						
+	
+	
+	
+	
+			
+	
+										
+			
+			</div>
+<div class="span3 linha04-img module row">
+						
+			<a href="http://www.icmbio.gov.br/sisbio" target="_blank"><img src="/portal/images/btn_sisbio.png" width="230" height="136" alt=""></a>			
+	
+			
+			</div>
+
+	</div>
+
+
+                            
+                            <span class="hide">Fim do conteúdo da página</span>
+                        </section>
+                    </div>
+                    <!-- fim #content.span9 -->
+                </div>
+                <!-- fim .row-fluid -->
+            </div>
+            <!-- fim .container -->
+          
+        </main>
+        <footer>
+            <div class="footer-atalhos">
+                <div class="container">
+                    <div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                </div>
+            </div>
+            <div class="container container-menus">
+                <div id="footer" class="row footer-menus">
+                    <span class="hide">Início da navegação de rodapé</span>
+                    	
+		<div class="span3">		
+			<nav class="row assuntos nav">
+				 			
+				<h2>Relevância</h2>
+								
+<ul>
+<li class="item-7276"><a href="/portal/quemquem" >Quem é quem</a></li><li class="item-7277"><a href="/portal/planosmanejo" >Planos de Manejo</a></li><li class="item-7278"><a href="/portal/geoprocessamentos" >Geoprocessamento</a></li><li class="item-7804"><a href="/portal/qlikview" >Painel dinâmico</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row servicos nav">
+				 			
+				<h2>Serviços</h2>
+								
+<ul>
+<li class="item-7043"><a href="/portal/perguntas-frequentes" >Perguntas frequentes</a></li><li class="item-7044 parent"><a href="/portal/contato" >Contato</a></li><li class="item-7279"><a href="/portal/sistemas2" >Sistemas</a></li><li class="item-7280"><a href="http://www.icmbio.gov.br/acessoainformacao/" target="_blank" >Acesso à Informação</a></li><li class="item-7047"><a href="/portal/ouvidoria" >Ouvidoria</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row redes-sociais nav">
+				 			
+				<h2>Redes Sociais</h2>
+								
+<ul>
+<li class="item-7050"><a href="https://www.facebook.com/ICMBio" >Facebook</a></li><li class="item-7048"><a href="https://twitter.com/ICMBio" >Twitter</a></li><li class="item-7049"><a href="http://www.youtube.com/user/canalicmbio" >YouTube</a></li><li class="item-7143"><a href="https://instagram.com/icmbio" >Instagram</a></li><li class="item-7131"><a href="http://www.icmbio.gov.br/portal/noticias1?format=feed&amp;type=rss" >RSS</a></li></ul>
+			</nav>					
+		</div>
+	
+		
+		<div class="span3">		
+			<nav class="row rss nav">
+				 			
+				<h2>Outros</h2>
+								
+<ul>
+<li class="item-7038"><a href="http://www.ana.gov.br/" >ANA</a></li><li class="item-7039"><a href="http://www.ibama.gov.br/" >IBAMA</a></li><li class="item-7040"><a href="http://www.jbrj.gov.br/" >JBRJ</a></li><li class="item-7041"><a href="http://www.florestal.gov.br/" >SFB</a></li><li class="item-7317"><a href="http://www.icmbio.gov.br/cggp/index.php" target="_blank" >PORTAL CGGP</a></li></ul>
+			</nav>					
+		</div>
+	
+	
+                    <span class="hide">Fim da navegação de rodapé</span>
+                </div>
+                <!-- fim .row -->
+            </div>
+            <!-- fim .container -->
+            <div class="footer-logos">
+                <div class="container">
+                                            <a href="http://www.acessoainformacao.gov.br/" class="logo-acesso pull-left"><img src="/portal/templates/padraogoverno01/images/acesso-a-informacao.png" alt="Acesso a Informação"></a>
+                                                                <!-- separador para fins de acessibilidade --><span class="hide">&nbsp;</span><!-- fim separador para fins de acessibilidade -->
+                        <a href="http://www.brasil.gov.br/" class="brasil pull-right"><img src="/portal/templates/padraogoverno01/images/brasil.png" alt="Brasil - Governo Federal"></a>
+                                    </div>
+            </div>
+
+            <div class="footer-atalhos">
+                <div class="container">
+                    <span class="hide">Fim do conteúdo da página</span>
+                                        <div style="margin-left: 5px;">Copyright&copy; ICMBio . Todos os direitos reservados. 25/09/2017 04:59:49 V1.0<br>EQSW 103/104, Bloco “C”, Complexo Administrativo - Setor Sudoeste CEP: 70.670-350 - Brasilia - DF
+                      <div class="pull-right voltar-ao-topo"><a href="#portal-siteactions"><i class="icon-chevron-up"></i>&nbsp;Voltar para o topo</a></div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- fim div#wrapper -->
+    <!-- scripts principais do template -->
+    		<script src="/portal/templates/padraogoverno01/bootstrap/js/bootstrap.min.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+	    <script src="/portal/templates/padraogoverno01/js/jquery.cookie.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+	    <script src="/portal/templates/padraogoverno01/js/template.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+		    		<script src="http://barra.brasil.gov.br/barra.js" type="text/javascript"></script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+		            <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-56826891-1']);
+          _gaq.push(['_trackPageview']);
+                              (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script><noscript>&nbsp;<!-- item para fins de acessibilidade --></noscript>
+        <!-- debug -->
+    
+    </body>
+</html>
